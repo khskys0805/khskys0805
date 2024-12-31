@@ -5,10 +5,10 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-  <br/>
+  <hr/>
 
   ### 💻 Project 💻
-  FarmFarm - https://github.com/khskys0805/FarmFarm_react
+  FarmFarm - https://github.com/khskys0805/FarmFarm_react<br/>
   STARD - https://github.com/Hanium2023-WeB/starD-frontend
 
 
