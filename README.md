@@ -11,9 +11,8 @@
   <a href="https://github.com/khskys0805/FarmFarm_react">FarmFarm</a> - 도시 농부를 위한 농작물 거래 서비스
   <br/>
   <a href="https://github.com/Hanium2023-WeB/starD-frontend">STARD</a> - 스터디 모집부터 관리까지 한 곳에서 할 수 있는 웹 플랫폼
-
-  ### 📞 Portfolio 📞
-  <a href="https://www.notion.so/98209dc9aa4945528c3ea5c824fa1b73?pvs=4">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
+  <br/>
+  <a href="https://github.com/khskys0805/Snap4U">Snap4U</a> - 사진 촬영 후 프레임 선택으로 맞춤형 이미지 생성
 
 <!--
 **khskys0805/khskys0805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
