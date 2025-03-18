@@ -36,12 +36,20 @@ I'm Front-end Developer
 </div>
 <br/><br/>
 
+<!-- 디자인 툴 -->
+## 🎨 Design Tools 🎨
+<div>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+</div>
+<br/><br/>
+
 <!--공부중 -->
 ## ✏️ Studying ✏️
 <div>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-Native-000000?style=flat&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white"/>
 </div>
 
  
